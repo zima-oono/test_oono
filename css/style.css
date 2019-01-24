@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/*
+*{
+  outline:1px solid #ff0000
+}
+*/
+
+/* すべて */
+body{
+  overflow: hidden;
+}
+ul{
+  padding:0;
+}
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+img{
+  vertical-align: bottom;
+  border:none;
+}
+
+/* すべてここまで */
+
+/* ヘッダー */
+
+
+/* ヘッダーここまで */
+
+/* メイン */
+
+
+/* メインここまで */
+
+/* フッター */
+
+/* フッターここまで */
+
+/* レスポンシブ */
+@media screen and ( max-width:640px){
+
+}
+/* レスポンシブここまで */
